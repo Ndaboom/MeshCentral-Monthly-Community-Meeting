@@ -29,8 +29,8 @@ for event_date in recurrence_rule:
     calendar.events.add(event)
 
 # Save the ICS file
-ics_file_path = "/mnt/data/meshcentral_meetings.ics"
+ics_file_path = "meshcentral_meetings.ics"
 with open(ics_file_path, "w") as f:
     f.writelines(calendar)
 
-ics_file_path
+print(f"Calendar saved as: {ics_file_path}")
