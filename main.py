@@ -5,7 +5,7 @@ from dateutil.rrule import rrule, MONTHLY
 # Define event details
 event_name = "MeshCentral Monthly Community Meeting"
 event_description = (
-    "Monthly community meeting for MeshCentral users and contributors.\n\n"
+    "Monthly community meeting for the MeshCentral community.\n\n"
     "More details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings"
 )
 event_location = "Online"
