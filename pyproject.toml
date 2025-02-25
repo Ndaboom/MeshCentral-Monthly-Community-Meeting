@@ -2,7 +2,7 @@
 name = "meshcentral-meeting-calendar"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Sammy Ndabo <ndabosam084@gmail.com>"]
 requires-python = ">=3.11"
 dependencies = [
     "ics>=0.7.2",
