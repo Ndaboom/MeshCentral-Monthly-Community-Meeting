@@ -1,7 +1,7 @@
 [project]
 name = "meshcentral-meeting-calendar"
 version = "0.1.0"
-description = ""
+description = "A Python tool that generates an ICS calendar file for MeshCentral Community Monthly Meetings. It creates recurring calendar events for the fourth Thursday of each month, making it easy to import into Google Calendar, Outlook, or any other calendar application that supports the ICS format."
 authors = ["Sammy Ndabo <ndabosam084@gmail.com>"]
 requires-python = ">=3.11"
 dependencies = [
