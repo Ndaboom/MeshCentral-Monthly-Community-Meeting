@@ -2,79 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:MeshCentral Community
 BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online
-DTSTART:20251225T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:fc0662d4-42c0-4529-bb9f-a75a92e664a7@fc06.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online
-DTSTART:20250522T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:0710b4ee-0905-4db5-853c-83d177f91427@0710.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online
-DTSTART:20260528T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:1bbac5b0-341b-4c01-8fdb-b7243b13a2eb@1bba.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online
-DTSTART:20261126T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:13210c2e-d3cf-443d-8a58-089b1f242a33@1321.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online
-DTSTART:20260423T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:92f2b1ca-b0e8-4e7f-9031-665d2ae15304@92f2.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online
-DTSTART:20260723T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:aea9a6d3-36de-48da-b186-2d0b85b9f0ac@aea9.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
+DTSTAMP:20250225T071008Z
 DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 DURATION:PT1H
 LOCATION:Online
@@ -82,11 +10,23 @@ DTSTART:20260122T140000Z
 STATUS:CONFIRMED
 SUMMARY:MeshCentral Monthly Community Meeting
 TRANSP:TRANSPARENT
-UID:6b1d7328-f249-4675-a106-f866d347a339@6b1d.org
+UID:23d4c47e-a783-4643-bb86-4d8db7c42af9@23d4.org
 URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
+DTSTAMP:20250225T071008Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online
+DTSTART:20250522T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:6a273280-ee37-4429-a41b-ceebbdd0e0d7@6a27.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T071008Z
 DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 DURATION:PT1H
 LOCATION:Online
@@ -94,11 +34,23 @@ DTSTART:20260924T140000Z
 STATUS:CONFIRMED
 SUMMARY:MeshCentral Monthly Community Meeting
 TRANSP:TRANSPARENT
-UID:7dc651f1-4169-4e20-85d9-1871c3932267@7dc6.org
+UID:98659185-e382-422b-9bf9-ab4e07d415cc@9865.org
 URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
+DTSTAMP:20250225T071008Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online
+DTSTART:20260423T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:c03cb1f6-a504-487b-a28f-a877705af6ef@c03c.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T071008Z
 DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 DURATION:PT1H
 LOCATION:Online
@@ -106,59 +58,11 @@ DTSTART:20250424T140000Z
 STATUS:CONFIRMED
 SUMMARY:MeshCentral Monthly Community Meeting
 TRANSP:TRANSPARENT
-UID:dd67f428-758e-427d-8a0c-56908ddb5e9d@dd67.org
+UID:d0ecb564-3b42-46c6-9b31-5661f8007ec3@d0ec.org
 URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online
-DTSTART:20261224T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:67f9eac4-b88a-4843-9c40-c3c71543675f@67f9.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online
-DTSTART:20250327T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:2a0ec42b-08a2-49a8-837d-e32ed9be742c@2a0e.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online
-DTSTART:20250724T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:8fd85e1b-9e94-453c-b9ac-2437547b6e6d@8fd8.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online
-DTSTART:20260326T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:412eade4-c8c0-48df-84ac-831b952d5d4a@412e.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
+DTSTAMP:20250225T071008Z
 DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 DURATION:PT1H
 LOCATION:Online
@@ -166,11 +70,23 @@ DTSTART:20251023T140000Z
 STATUS:CONFIRMED
 SUMMARY:MeshCentral Monthly Community Meeting
 TRANSP:TRANSPARENT
-UID:c81ae2d4-bcf0-4ca9-9441-2f79546826b9@c81a.org
+UID:18521ad1-800e-4b4f-be44-c760e731cb78@1852.org
 URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
+DTSTAMP:20250225T071008Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online
+DTSTART:20260723T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:de30f919-31f5-4358-b124-1eb727f75237@de30.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T071008Z
 DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 DURATION:PT1H
 LOCATION:Online
@@ -178,23 +94,23 @@ DTSTART:20251127T140000Z
 STATUS:CONFIRMED
 SUMMARY:MeshCentral Monthly Community Meeting
 TRANSP:TRANSPARENT
-UID:4668750f-0fcb-424c-b55a-7455677f0dc2@4668.org
+UID:d6e463bb-1368-4723-b5b5-0e47e22ff73c@d6e4.org
 URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
+DTSTAMP:20250225T071008Z
 DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 DURATION:PT1H
 LOCATION:Online
-DTSTART:20250828T140000Z
+DTSTART:20260528T140000Z
 STATUS:CONFIRMED
 SUMMARY:MeshCentral Monthly Community Meeting
 TRANSP:TRANSPARENT
-UID:d06585a2-5377-4599-b465-d2b8b6331093@d065.org
+UID:74efff4f-5cbe-40e0-87e7-4a9bf73fd744@74ef.org
 URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
+DTSTAMP:20250225T071008Z
 DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 DURATION:PT1H
 LOCATION:Online
@@ -202,47 +118,35 @@ DTSTART:20261022T140000Z
 STATUS:CONFIRMED
 SUMMARY:MeshCentral Monthly Community Meeting
 TRANSP:TRANSPARENT
-UID:0b6c66d1-2781-4ed8-a407-19bd27cf89b1@0b6c.org
+UID:907d5740-0a6f-4207-9652-e670d16f3dac@907d.org
 URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
+DTSTAMP:20250225T071008Z
 DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 DURATION:PT1H
 LOCATION:Online
-DTSTART:20250626T140000Z
+DTSTART:20261126T140000Z
 STATUS:CONFIRMED
 SUMMARY:MeshCentral Monthly Community Meeting
 TRANSP:TRANSPARENT
-UID:6abca48a-c61b-4bb6-9d79-112cbf025718@6abc.org
+UID:e6d0918b-5187-4d4d-84ad-9f62fbe9a5d8@e6d0.org
 URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
+DTSTAMP:20250225T071008Z
 DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 DURATION:PT1H
 LOCATION:Online
-DTSTART:20250925T140000Z
+DTSTART:20251225T140000Z
 STATUS:CONFIRMED
 SUMMARY:MeshCentral Monthly Community Meeting
 TRANSP:TRANSPARENT
-UID:c0b6efa3-6604-4e12-8c7d-f8151d9786fc@c0b6.org
+UID:469e70d1-a417-4a99-a98e-7b3d44fd40ec@469e.org
 URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online
-DTSTART:20260226T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:6148e3de-2d2f-4f65-9c87-85dc784c7ea3@6148.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
+DTSTAMP:20250225T071008Z
 DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 DURATION:PT1H
 LOCATION:Online
@@ -250,35 +154,47 @@ DTSTART:20260827T140000Z
 STATUS:CONFIRMED
 SUMMARY:MeshCentral Monthly Community Meeting
 TRANSP:TRANSPARENT
-UID:1080cdaf-ed1e-48ae-a935-bc45c35121a3@1080.org
+UID:3dcb50a3-63ac-4ddf-a4c3-97745bb710d2@3dcb.org
 URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
+DTSTAMP:20250225T071008Z
 DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 DURATION:PT1H
 LOCATION:Online
-DTSTART:20270128T140000Z
+DTSTART:20250925T140000Z
 STATUS:CONFIRMED
 SUMMARY:MeshCentral Monthly Community Meeting
 TRANSP:TRANSPARENT
-UID:cc79e259-3878-4403-a499-c3fa0f793847@cc79.org
+UID:4b9bc530-93b3-4d2c-b8a2-7414cf0f9083@4b9b.org
 URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
+DTSTAMP:20250225T071008Z
 DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 DURATION:PT1H
 LOCATION:Online
-DTSTART:20260625T140000Z
+DTSTART:20250626T140000Z
 STATUS:CONFIRMED
 SUMMARY:MeshCentral Monthly Community Meeting
 TRANSP:TRANSPARENT
-UID:ccb3961a-f959-47a1-b371-fb40fc60aa3b@ccb3.org
+UID:638b0528-b052-4711-8646-a00e2757b2ef@638b.org
 URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250225T065604Z
+DTSTAMP:20250225T071008Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online
+DTSTART:20250724T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:6a25a67d-dd64-4f18-9f35-6f577695635f@6a25.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T071008Z
 DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 DURATION:PT1H
 LOCATION:Online
@@ -286,7 +202,91 @@ DTSTART:20250227T140000Z
 STATUS:CONFIRMED
 SUMMARY:MeshCentral Monthly Community Meeting
 TRANSP:TRANSPARENT
-UID:ef865c9a-f88b-4aa4-a1b7-007a8e4db490@ef86.org
+UID:1bc228b5-10d3-4376-9257-0733b3b24c07@1bc2.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T071008Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online
+DTSTART:20260625T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:89226ffd-ea53-449c-873d-1d3e79d72156@8922.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T071008Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online
+DTSTART:20250828T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:18ffcb87-d265-489b-b891-43a50604c62b@18ff.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T071008Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online
+DTSTART:20270128T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:054255fe-12a2-41c9-826c-491d90673ab4@0542.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T071008Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online
+DTSTART:20260226T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:5fe72281-d6a3-4ae5-9999-4107a6fa3d49@5fe7.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T071008Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online
+DTSTART:20250327T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:ad32d48f-8ee2-45f0-a496-966f073d6eb2@ad32.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T071008Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online
+DTSTART:20261224T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:3acf80d6-fa94-43a0-9986-cc35afb38bac@3acf.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T071008Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online
+DTSTART:20260326T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:363c6140-3980-4f21-a182-fdc3fb8f92d9@363c.org
 URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 END:VEVENT
 METHOD:PUBLISH
