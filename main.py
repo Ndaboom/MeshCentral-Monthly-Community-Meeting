@@ -17,6 +17,8 @@ recurrence_rule = rrule(MONTHLY, dtstart=event_start_time, count=24, byweekday=3
 
 # Create an ICS calendar
 calendar = Calendar()
+calendar.creator = "MeshCentral Community"
+calendar.method = "PUBLISH"
 
 # Add events to the calendar
 for event_date in recurrence_rule:
@@ -26,6 +28,10 @@ for event_date in recurrence_rule:
     event.duration = event_duration
     event.location = event_location
     event.description = event_description
+    event.created = datetime.now()
+    event.status = "CONFIRMED"
+    event.transparent = True  # Does not block time in calendar
+    event.url = "https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings"
     calendar.events.add(event)
 
 # Save the ICS file
