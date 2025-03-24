@@ -13,21 +13,20 @@ event_location = "Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
 event_start_time = datetime(2025, 2, 27, 14, 0)  # Start on Feb 27, 2025, at 14:00 UTC
 event_duration = timedelta(hours=1)  # 1-hour event
 
-# Generate recurring dates (fourth Thursday of each month for 2 years)
-recurrence_rule = rrule(MONTHLY, dtstart=event_start_time, count=24, byweekday=3, bysetpos=4)
-
 # Create an ICS calendar
 calendar = Calendar()
 calendar.creator = "MeshCentral Community"
 calendar.method = "PUBLISH"
 
-# Add events to the calendar
-for event_date in recurrence_rule:
-    event = Event()
-    # Create consistent UID based on date
-    event.uid = f"meshcentral-meeting-{event_date.strftime('%Y%m%d')}"
-    event.name = event_name
-    event.begin = event_date.isoformat()
+# Create a single recurring event
+event = Event()
+event.uid = "meshcentral-monthly-meeting"
+event.name = event_name
+event.begin = event_start_time
+# Add RRULE for fourth Thursday of each month for 2 years
+event.extra.append(
+    Event.Extra(name="RRULE", value="FREQ=MONTHLY;COUNT=24;BYDAY=4TH;BYDAY=TH")
+)
     event.duration = event_duration
     event.location = event_location
     event.description = event_description
