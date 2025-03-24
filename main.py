@@ -24,6 +24,8 @@ calendar.method = "PUBLISH"
 # Add events to the calendar
 for event_date in recurrence_rule:
     event = Event()
+    # Create consistent UID based on date
+    event.uid = f"meshcentral-meeting-{event_date.strftime('%Y%m%d')}"
     event.name = event_name
     event.begin = event_date.isoformat()
     event.duration = event_duration
