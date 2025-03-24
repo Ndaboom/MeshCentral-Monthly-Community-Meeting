@@ -6,9 +6,10 @@ from dateutil.rrule import rrule, MONTHLY
 event_name = "MeshCentral Monthly Community Meeting"
 event_description = (
     "Monthly community meeting for the MeshCentral community.\n\n"
+    "Join the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\n"
     "More details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings"
 )
-event_location = "Online"
+event_location = "Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)"
 event_start_time = datetime(2025, 2, 27, 14, 0)  # Start on Feb 27, 2025, at 14:00 UTC
 event_duration = timedelta(hours=1)  # 1-hour event
 
