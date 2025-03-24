@@ -34,6 +34,11 @@ event.extra.append(
     event.status = "CONFIRMED"
     event.transparent = True  # Does not block time in calendar
     event.url = "https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings"
+    
+    # Add image attachment
+    with open("meshagent-circle.png", "rb") as image_file:
+        event.attach(image_file.read(), "meshagent-circle.png")
+    
     calendar.events.add(event)
 
 # Save the ICS file
