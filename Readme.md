@@ -33,8 +33,9 @@ This project generates an ICS calendar file for the MeshCentral Monthly Communit
 3. **Install Dependencies**:
    Install the required Python packages:
    ```bash
-   pip install ics python-dateutil pytz
+   pip install ics python-dateutil pytz tzlocal
    ```
+   Note: The `hashlib` library is part of Python's standard library and does not require separate installation.
 
 4. **Run the Script**:
    Execute the script to generate the ICS file:
