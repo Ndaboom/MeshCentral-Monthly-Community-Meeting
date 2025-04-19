@@ -2,175 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:MeshCentral Community
 BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20250522T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:8e298705-d40a-4e8f-bb21-68d225510111@8e29.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20260226T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:42d6992c-60c3-449d-9703-55fae61e8c8b@42d6.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20261022T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:36b1ff93-2beb-4667-9d43-3bdbdd38fe53@36b1.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20260625T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:8800d157-f45a-43d4-9b61-486052b11294@8800.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20261224T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:46f9f727-caf1-48fe-a320-3e8c5089a5c8@46f9.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20251225T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:d2a22057-eacc-404e-b0c8-1ee812a0cf3c@d2a2.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20250327T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:1f658f17-0b25-4fd6-a2b9-77dbc932092c@1f65.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20261126T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:79b4b5b8-90c3-46eb-865e-f35fe038c006@79b4.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20260326T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:acf5147b-e851-4acc-afe8-0f13aee91c53@acf5.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20260723T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:f9a5cb4a-f77c-47c8-8c9b-7747ce3ce347@f9a5.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20260423T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:ee53e25d-7ba8-4b7e-a32c-c763f68501ef@ee53.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20260122T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:febd16ce-9745-4c61-a36f-6bdbc9300415@febd.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20250925T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:a760ea85-3d55-402b-b1a0-ed3471285114@a760.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20251127T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:e8fa19f1-a723-4115-8a19-9b16c858b795@e8fa.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
+DTSTAMP:20250419T215705Z
 DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 DURATION:PT1H
 LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
@@ -178,83 +10,23 @@ DTSTART:20270128T140000Z
 STATUS:CONFIRMED
 SUMMARY:MeshCentral Monthly Community Meeting
 TRANSP:TRANSPARENT
-UID:b20b2afe-456a-40a4-92b6-683fdda320a7@b20b.org
+UID:aba5cfd0-c989-4968-bfa5-264d40052c98@aba5.org
 URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
+DTSTAMP:20250419T215705Z
 DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 DURATION:PT1H
 LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20250828T140000Z
+DTSTART:20250522T140000Z
 STATUS:CONFIRMED
 SUMMARY:MeshCentral Monthly Community Meeting
 TRANSP:TRANSPARENT
-UID:ed40cf18-76aa-42cf-9a2b-1d44fff5f841@ed40.org
+UID:d79af341-a5b7-4044-8037-82f244c44754@d79a.org
 URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20250227T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:b137a02a-b1de-4f49-8928-83605839fee4@b137.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20250424T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:395aa44a-c1a4-44de-b33a-053fbabc7361@395a.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20251023T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:5e726839-86cb-4355-9a25-f156aa8fee36@5e72.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20250724T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:b9ec57c0-f8a4-4e01-9d0a-9810fac155c6@b9ec.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20260924T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:c913c7c7-d4b3-493a-8b44-e3661985441a@c913.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
+DTSTAMP:20250419T215705Z
 DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 DURATION:PT1H
 LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
@@ -262,23 +34,11 @@ DTSTART:20260528T140000Z
 STATUS:CONFIRMED
 SUMMARY:MeshCentral Monthly Community Meeting
 TRANSP:TRANSPARENT
-UID:56f169fe-bfaf-4471-bd71-50777c742d0c@56f1.org
+UID:b62f660b-93cc-4ba8-8399-173eace4df28@b62f.org
 URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
-DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-DURATION:PT1H
-LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
-DTSTART:20250626T140000Z
-STATUS:CONFIRMED
-SUMMARY:MeshCentral Monthly Community Meeting
-TRANSP:TRANSPARENT
-UID:80c4e396-241f-4bd3-ba6a-823bce3830e0@80c4.org
-URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T221342Z
+DTSTAMP:20250419T215705Z
 DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 DURATION:PT1H
 LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
@@ -286,7 +46,247 @@ DTSTART:20260827T140000Z
 STATUS:CONFIRMED
 SUMMARY:MeshCentral Monthly Community Meeting
 TRANSP:TRANSPARENT
-UID:9fcccca8-1c31-4699-9244-4ea5378fd7a3@9fcc.org
+UID:4204c73d-6c1a-468d-91fb-593c47f05b83@4204.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20260723T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:716e703b-0706-4c02-af51-a364222e1c96@716e.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20251127T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:7593b7fd-99fd-453c-a3a5-b3f42da7fb7e@7593.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20260326T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:9974d5fc-5da1-43d0-abae-4f0a03a1fa0e@9974.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20251023T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:9487c96d-776b-4955-888e-dd57fb8971ff@9487.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20250327T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:349794c6-a4fe-4904-8e7f-12bd33d53e5d@3497.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20250626T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:77dac386-82a6-49b4-80b5-938bdaabb869@77da.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20250424T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:bfb3bab4-6986-43ce-ae6b-41d84d9af333@bfb3.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20251225T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:f7cad2be-5c70-4e77-b0b8-e7dea0fad2f4@f7ca.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20260625T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:bd021856-793d-4fa0-bb12-ed7ef7bf98d7@bd02.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20261022T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:6535f109-a753-419b-aee5-05516555c2e2@6535.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20260924T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:626b850e-fe87-4e31-918a-0a9c9f9c9408@626b.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20250227T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:6e0b9bf4-43f3-41fd-8a73-542e6f9ae6e0@6e0b.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20260423T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:63f6b13b-e105-4373-9592-1a9aec5d396d@63f6.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20250828T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:4b34dd2c-7b9c-476a-94b3-6c035f438670@4b34.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20261126T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:37a594fa-71e2-4d5d-8226-b8e3d0bc7aca@37a5.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20250724T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:5f1e117c-de00-442c-ba50-c1729f11ccc6@5f1e.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20260122T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:f0654ce2-e5db-4f64-ad32-3e7a685d6a4d@f065.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20260226T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:7241784f-41d9-49ca-b036-b93d6efa5f10@7241.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20261224T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:77b7c48f-ef3a-4d2d-969e-42f27b7ca37a@77b7.org
+URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T215705Z
+DESCRIPTION:Monthly community meeting for the MeshCentral community.\n\nJoin the meeting: https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join\n\nMore details: https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
+DURATION:PT1H
+LOCATION:Online (https://meet.evoludata.com/rooms/zm9-wx7-t07-xbu/join)
+DTSTART:20250925T140000Z
+STATUS:CONFIRMED
+SUMMARY:MeshCentral Monthly Community Meeting
+TRANSP:TRANSPARENT
+UID:9aab181d-a4a5-430e-82b4-7841dbd3657b@9aab.org
 URL:https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings
 END:VEVENT
 METHOD:PUBLISH
