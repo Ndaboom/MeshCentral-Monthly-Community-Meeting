@@ -3,6 +3,7 @@ from datetime import datetime, timedelta
 from dateutil.rrule import rrule, MONTHLY, TH
 from tzlocal import get_localzone
 import pytz
+import hashlib
 
 # Define event details
 event_name = "MeshCentral Monthly Community Meeting"
@@ -42,6 +43,11 @@ for utc_dt in recurrence_rule:
     event.status = "CONFIRMED"
     event.transparent = True
     event.url = "https://github.com/Ylianst/MeshCentral/wiki/Community-Monthly-Meetings"
+
+    # Generate a consistent UID based on event details
+    uid_data = f"{event_name}-{local_dt.isoformat()}-{event_location}"
+    event.uid = hashlib.md5(uid_data.encode()).hexdigest() + "@meshcentral.org"
+
     calendar.events.add(event)
 
 # Save the ICS file
